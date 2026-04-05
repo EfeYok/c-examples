@@ -1,4 +1,4 @@
-// Alt alta 10 Yıldız~
+// Alt alta 5 Yıldız~
 
 #include <stdio.h>
 
